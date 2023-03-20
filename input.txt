@@ -1,0 +1,7 @@
+ input.txt
+copyfiles
+copyfiles.c
+input.txt
+open
+open.c
+output
